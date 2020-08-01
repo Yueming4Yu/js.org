@@ -2407,6 +2407,7 @@ var cnames_active = {
   "yizao": "ssttii.github.io",
   "ymlair": "ymlair.github.io/TimestampHumanDemo",
   "yolog": "jitesoft.github.io/yolog",
+  "yueming": "yueming4yu.github.io"
   "youngjuning": "youngjuning.github.io",
   "youtim": "mortonfox.github.io/YouTim", // noCF? (don´t add this in a new PR)
   "youtube-box": "lucasmonteverde.github.io/youtube-box", // noCF? (don´t add this in a new PR)
@@ -2415,6 +2416,7 @@ var cnames_active = {
   "yusril": "yusrilhs.github.io", // noCF
   "yuye": "cyea.github.io",
   "yvm": "tophat.github.io/yvm",
+  "yueming4yu": "yueming4yu.github.io"
   "zaporizhzhia": "zaporizhzhiajs.github.io",
   "zea-cad": "zeainc.github.io/zea-cad",
   "zea-engine": "zeainc.github.io/zea-engine",
